@@ -1,5 +1,5 @@
 ### Hello there 👋
-### I am currently a 3rd-year student at the University of Oregon majoring in Computer Science ✨
+### I am currently a senior at the University of Oregon majoring in Computer Science ✨
 ### With a interest in how to make everyday life easier, I wish to create programs for good, for people, and for simpler life style 😄
 <!--
 - 🔭 I’m currently working on ...
