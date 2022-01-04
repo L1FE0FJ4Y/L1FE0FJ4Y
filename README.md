@@ -1,6 +1,6 @@
 ### Hello there 👋
 ### I am currently a senior at the University of Oregon majoring in Computer Science ✨
-### With a interest in how to make everyday life easier, I wish to create programs for good, for people, and for simpler life style 😄
+### I have a great interest in how to make various computation easily accessible in everyday life. My academic interest is focused on parallel computing and Artificial Intelligence, because I believe combination of two would be the leading frame of next computing paradigm. A goal of mine is to develop an application that uses AI/ML to contribute effective management of nutrition status for the people. 😄
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
